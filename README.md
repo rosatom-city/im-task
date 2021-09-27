@@ -14,5 +14,4 @@
 Необходимые для решения тестового задания ссылки:
 * Макеты для чата: https://www.figma.com/file/KduGdPvFeKpMonOlvGlAi3/%D0%A0%D0%BE%D1%81%D0%B0%D1%82%D0%BE%D0%BC%3A-%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5?node-id=0%3A1
 * Репозиторий бэка: https://github.com/rosatom-city/im-back
-* Описание API (swagger):
-* Ссылка на тестовый бэк контур:
+* Ссылка на тестовый контур бэк и описание API (swagger): http://im-node.nl.yapahost.ru/
